@@ -3,11 +3,11 @@
 - In this task I  roteted 2D matrix in 90 degrees clockwise.
 
 
-## Tests :heavy_check_mark:
+## Tests 
 
 [test](test)
 
-## Tasks :page_with_curl:
+## Tasks
 
 - Given an n x n 2D matrix, rotate it 90 degrees clockwise.
 
